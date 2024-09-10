@@ -32,10 +32,10 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-print('My favorite movie is Harry Potter')
+print('My favorite movie is Harry Potter!')
 ```
 
-    My favorite movie is Harry Potter
+    My favorite movie is Harry Potter!
 
 
 # Task 2
